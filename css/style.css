@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #FFE2E2;
+
+}
+
+.top-container {
+  background-color: #FFE2E2;
+
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.middle-container {
+
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #8785A2;
+  padding: 20px 0 50px;
+  margin: 0;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  color: #E60965;
+
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  color: #8785A2;
+  margin-top: 10px;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 470px;
+  left: 400px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+
+.bitmoji {
+  position: absolute;
+  left: 580px;
+  top: 100px;
+}
+
+.description {
+  font-family: monospace;
+  padding-left: 10px;
+  font-weight: normal;
+  color: #E60965;
+  font-size: 20px
+}
+
+.WebD {
+  text-decoration: underline;
+}
+
+.guitar {
+  width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     float: left;
+     margin-right: 30px;
+}
+
+.debating{
+  width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     float: right;
+     margin-left: 30px;
+}
+
+.coding{  width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+ .skill-row{
+
+   width:30%;
+   margin: 50px auto 50px auto;
+
+  text-align: left;
+  line-height:2;
+ }
+
+ hr {
+   border-style: none;
+   border-color: #54BAB9;
+   width: 10%;
+   border-top-style: dotted;
+   border-width: 5px;
+   margin: 100px auto;
+ }
+
+
+ .intro{
+   width: 40%;
+   line-height: 2;
+   margin: auto
+ }
+
+.contact {
+margin: 50px auto;
+width: 40%;
+line-height:2;
+
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Georgia;
+  color: #FEFAEC;
+  font-size: 39px;
+  background: #5b5099;
+  padding: 14px 14px 14px 14px;
+  border: solid #ffffff 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+a{
+color:#FEFAEC;
+font-family: Montserrat, sans-serif;
+margin: 10px 20px;
+}
+.end{
+  margin-top:50px;
+}
